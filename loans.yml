@@ -1,6 +1,5 @@
 build:
   version: '3.0'
-  # test
 
 loans:
   message: 'Welcome to EazyBank loans related local APIs '
